@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\code_courses\consoleapplication1\求s=a+aa+aaa+aaaa+aa...a的值\源.cpp(13): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  求s=a+aa+aaa+aaaa+aa...a的值.vcxproj -> D:\code_courses\ConsoleApplication1\Debug\求s=a+aa+aaa+aaaa+aa...a的值.exe
